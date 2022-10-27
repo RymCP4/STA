@@ -6,3 +6,6 @@ https://colab.research.google.com/github/RymCP4/STA/blob/main/Cravens_2023_Lab_2
 
 Lab 3:
 https://colab.research.google.com/github/RymCP4/STA/blob/main/Cravens_Lab_3.ipynb
+
+Lab 4:
+https://colab.research.google.com/github/RymCP4/STA/blob/main/Cravens_2023_Lab_4.ipynb
