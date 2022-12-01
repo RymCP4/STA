@@ -15,3 +15,6 @@ https://github.com/RymCP4/STA/blob/main/Cravens_2023_Lab_5.ipynb
 
 Lab 6:
 https://github.com/RymCP4/STA/blob/main/Cravens_Lab_6.ipynb
+
+Lab 10:
+https://github.com/RymCP4/STA/blob/main/Cravens_Stats_Lab_Linear_Model_Photo_Dataset.ipynb
